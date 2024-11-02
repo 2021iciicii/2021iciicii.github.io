@@ -1,11 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "The Fifth International Conference on Industrial Informatics
+
+– Computing Technology, Intelligent Technology,
+
+Industrial Information Integration
+
+（ICIICII 2021）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+
 # Welcome
 To promote the integration of informatization and industrialization, the transformation and upgradations of China's manufacturing industry, to strengthen China-Russia cooperation in science and technology under the "Belt and Road Initiative," Shantou University, together with the Russian Academy of Engineering and Wuhan University of Technology, hosted the 5th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021) in the "China- Russia Year of Science and Technology Innovation."
 This conference is recommended by the Guangdong Provincial Department of Science and Technology. It has been included in the "China-Russia Year of Science and Technology Innovation" activities list by the Cooperation Department of the Ministry of Science and Technology.
