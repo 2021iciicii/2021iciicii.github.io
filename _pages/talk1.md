@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Promising Areas of Research and Technological Cooperation in Different Fields of Engineering"
-permalink: /speech/talk1/
+permalink: /Speech/talk1/
 ---
 
 # Presenter: Prof. Leonid Alekseevich Ivanov
