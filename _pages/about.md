@@ -6,7 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-<h1>"The Fifth International Conference on Industrial Informatics  – Computing Technology, Intelligent Technology, Industrial Information Integration "</h1>
+<h1>The Fifth International Conference on Industrial Informatics </h1>
+<h1>– Computing Technology, Intelligent Technology, Industrial Information Integration</h1>
 
 <div class="welcome">
     <h2>Welcome</h2>
