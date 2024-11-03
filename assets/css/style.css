@@ -41,7 +41,7 @@ ul {
 
 h1 {
     text-align: center; /* 两端对齐 */
-    width: 100%; /* 宽度设置为100% */
+    width: 150%; /* 宽度设置为100% */
     max-width: 3000px; /* 设置一个最大宽度，可以根据需要调整 */
     margin: 0 auto; /* 使标题居中 */
     padding: 0 20px; /* 内边距以确保内容不会紧贴边缘 */
