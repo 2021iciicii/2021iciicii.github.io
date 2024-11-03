@@ -12,23 +12,12 @@ redirect_from:
 
 <div class="welcome">
     <h1>Welcome</h1>
-    <p>
-        To promote the integration of informatization and industrialization, the transformation and upgrading of China's manufacturing industry, and to strengthen China-Russia cooperation in science and technology under the "Belt and Road Initiative," <strong>Shantou University</strong>, together with the <strong>Russian Academy of Engineering</strong> and <strong>Wuhan University of Technology</strong>, hosted the <strong>5th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> in the "China-Russia Year of Science and Technology Innovation."
-    </p>
-    <p>
-        This conference is recommended by the <strong>Guangdong Provincial Department of Science and Technology</strong> and has been included in the "China-Russia Year of Science and Technology Innovation" activities list by the <strong>Cooperation Department of the Ministry of Science and Technology</strong>.
-    </p>
-    <p>
-        The main theme of the ICIICII 2021 conference is to explore new methods for the integration of informatization and industrialization by showcasing the latest progress in industrial informatics. The purpose of this academic exchange activity is to facilitate the construction of the <strong>Guangdong-Hong Kong-Macao Greater Bay Area</strong> as an international technology innovation center and an open technology innovation system, to showcase the latest research results in the field of industrial informatics, to strengthen China-Russian scientific and technological cooperation, and to provide recommendations for improving the international influence of Guangdong's technological innovation.
-    </p>
+    <p>To promote the integration of informatization and industrialization, the transformation and upgrading of China's manufacturing industry, and to strengthen China-Russia cooperation in science and technology under the "Belt and Road Initiative," <strong>Shantou University</strong>, together with the <strong>Russian Academy of Engineering</strong> and <strong>Wuhan University of Technology</strong>, hosted the <strong>5th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> in the "China-Russia Year of Science and Technology Innovation."</p>
 </div>
 
 <div class="introduction">
     <h2>Introduction</h2>
-    <p>
-        The <strong>Fifth International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> is hosted by <strong>Shantou University, China</strong>, co-hosted by <strong>Russian Academy of Engineering (RAE), Russia</strong> and <strong>Wuhan University of Technology, China</strong>.
-    </p>
-    <p>It is technically sponsored by:</p>
+    <p>The <strong>Fifth International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> is hosted by <strong>Shantou University, China</strong>, co-hosted by <strong>Russian Academy of Engineering (RAE), Russia</strong> and <strong>Wuhan University of Technology, China</strong>. It is technically sponsored by:</p>
     <ul>
         <li>International Joint Research Center of Evolutionary Intelligence and Robotics of Guangdong Province, China</li>
         <li>International Cooperation Base of Evolutionary Intelligence and Robotics of Guangdong Province, China</li>
@@ -119,40 +108,31 @@ redirect_from:
 
 <div class="academic-committee">
     <h2>Academic Committee</h2>
-    <p><strong>Honorary General Chair:</strong> Leonid Alekseevich Ivanov, Russian Academy of Engineering, Russia</p>
-    <p><strong>General Chairs:</strong></p>
-    <ul>
-        <li>Lida Xu, Old Dominion University, USA</li>
-        <li>Zhifeng Hao, Shantou University, China</li>
-        <li>Quan Wang, Shantou University, China</li>
-    </ul>
-    <p><strong>Program Committee Chairs:</strong></p>
-    <ul>
-        <li>Zhun Fan, Guangdong Provincial Key Laboratory of Digital Signal and Image Processing, China</li>
-        <li>Pan Wang, Wuhan University of Technology, China</li>
-        <li>Lijie Li, Swansea University, UK</li>
-    </ul>
-    <p><strong>Advisory Committee Chairs:</strong></p>
-    <ul>
-        <li>Tangmin Chen, Shenzhen RoadRover Technology Co., Ltd, China</li>
-        <li>Lingxia Li, Old Dominion University, USA</li>
-        <li>Dingfang Chen, Wuhan University of Technology, China</li>
-    </ul>
+    <p><strong>Honorary General Chair</strong><br>
+    Leonid Alekseevich Ivanov, Russian Academy of Engineering, Russia</p>
+    <p><strong>General Chairs</strong><br>
+    Lida Xu, Old Dominion University, USA<br>
+    Zhifeng Hao, Shantou University, China<br>
+    Quan Wang, Shantou University, China</p>
+    <p><strong>Program Committee Chairs</strong><br>
+    Zhun Fan, Guangdong Provincial Key Laboratory of Digital Signal and Image Processing, China<br>
+    Pan Wang, Wuhan University of Technology, China<br>
+    Lijie Li, Swansea University, UK</p>
+    <p><strong>Advisory Committee Chairs</strong><br>
+    Tangmin Chen, Shenzhen RoadRover Technology Co., Ltd, China<br>
+    Lingxia Li, Old Dominion University, USA<br>
+    Dingfang Chen, Wuhan University of Technology, China</p>
 </div>
 
 <div class="local-organizing-committee">
     <h2>Local Organizing Committee</h2>
-    <p><strong>Local Organizing Chairs:</strong></p>
-    <ul>
-        <li>Xinhua Guo, Wuhan University of Technology, China</li>
-        <li>Menglun Tao, Wuhan University of Technology, China</li>
-        <li>Chuliang Wei, Shantou University, China</li>
-        <li>Ke Li, Shantou University, China</li>
-    </ul>
-    <p><strong>Local Organizing Co-chairs:</strong></p>
-    <ul>
-        <li>Jie Mei, Wuhan University of Technology, China</li>
-        <li>Anmin Zhou, Shantou University, China</li>
-        <li>Qibing Lu, Wuhan University of Technology, China</li>
-    </ul>
-</div
+    <p><strong>Local Organizing Chairs</strong><br>
+    Xinhua Guo, Wuhan University of Technology, China<br>
+    Menglun Tao, Wuhan University of Technology, China<br>
+    Chuliang Wei, Shantou University, China<br>
+    Ke Li, Shantou University, China</p>
+    <p><strong>Local Organizing Co-chairs</strong><br>
+    Jie Mei, Wuhan University of Technology, China<br>
+    Anmin Zhou, Shantou University, China<br>
+    Qibing Lu, Wuhan University of Technology, China</p>
+</div>
