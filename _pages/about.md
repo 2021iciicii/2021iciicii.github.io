@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Fifth International Conference on Industrial Informatics  – Computing Technology, Intelligent Technology, Industrial Information Integration "
+title: <h1>"The Fifth International Conference on Industrial Informatics  – Computing Technology, Intelligent Technology, Industrial Information Integration "</h1>
 author_profile: true
 redirect_from: 
   - /about/
