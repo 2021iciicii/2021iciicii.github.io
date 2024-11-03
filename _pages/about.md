@@ -1,9 +1,6 @@
 ---
 permalink: /
-title: "The Fifth International Conference on Industrial Informatics  
-– Computing Technology, Intelligent Technology,  
-Industrial Information Integration  
-（ICIICII 2021）"
+title: "The Fifth International Conference on Industrial Informatics  – Computing Technology, Intelligent Technology, Industrial Information Integration "
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +8,7 @@ redirect_from:
 ---
 
 <div class="welcome">
-    <h1>Welcome</h1>
+    <h2>Welcome</h2>
     <p>To promote the integration of informatization and industrialization, the transformation and upgrading of China's manufacturing industry, and to strengthen China-Russia cooperation in science and technology under the "Belt and Road Initiative," <strong>Shantou University</strong>, together with the <strong>Russian Academy of Engineering</strong> and <strong>Wuhan University of Technology</strong>, hosted the <strong>5th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> in the "China-Russia Year of Science and Technology Innovation."</p>
 </div>
 
