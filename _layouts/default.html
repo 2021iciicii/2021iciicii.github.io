@@ -9,6 +9,10 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    {% for stylesheet in site.stylesheets %}
+        <link rel="stylesheet" href="{{ stylesheet }}">
+    {% endfor %}
   </head>
 
   <body>
