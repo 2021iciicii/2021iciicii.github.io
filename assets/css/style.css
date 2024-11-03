@@ -1,0 +1,40 @@
+.welcome h1, 
+.introduction h2, 
+.topics h2, 
+.organizers h2, 
+.partners h2, 
+.academic-committee h2, 
+.local-organizing-committee h2 {
+    max-width: 800px; /* 或其他宽度，根据需要调整 */
+    margin: 0 auto; /* 使标题居中 */
+    text-align: justify; /* 使标题两端对齐 */
+}
+
+.welcome p, 
+.introduction p, 
+.topics p, 
+.organizers p, 
+.partners p, 
+.academic-committee p, 
+.local-organizing-committee p {
+    text-align: justify; /* 使正文内容两端对齐 */
+}
+
+.welcome, 
+.introduction, 
+.topics, 
+.organizers, 
+.partners, 
+.academic-committee, 
+.local-organizing-committee {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+ul {
+    list-style-position: inside; /* 列表项目符号的位置 */
+    margin-left: 0; /* 移除列表左边距 */
+}
