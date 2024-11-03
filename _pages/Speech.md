@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Speech"
-permalink: /speech/
+permalink: /Speech/
 author_profile: true
 ---
 
