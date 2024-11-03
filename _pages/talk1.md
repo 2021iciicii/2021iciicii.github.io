@@ -6,7 +6,7 @@ permalink: /speech/talk1/
 
 # Presenter: Prof. Leonid Alekseevich Ivanov
 
-**Abstract**
+## **Abstract**
 On June 5, 2019, President of the People's Republic of China Xi Jinping and President of the Russian Federation Vladimir Putin signed a Joint Statement on the development of comprehensive partnership and strategic cooperation entering a new era.
 Paragraph 6 of the Joint Statement states: To increase the depth and scope of scientific, technical and innovative cooperation, to this end, to hold cross-Years of Russian-Chinese scientific, technical and innovative cooperation in 2020 and 2021.
 In order to establish closer cooperation between the scientific and technical communities of the People's Republic of China and the Russian Federation, researchers and specialists of the Russian Academy of the Engineering, together with partners, have prepared materials on scientific, technical and innovative projects in various fields of engineering. Among them:
@@ -16,7 +16,7 @@ In order to establish closer cooperation between the scientific and technical co
 development of polishing pads on the basis of foamed polyurethane for chemical-mechanical polishing of dielectric layers in manufacturing of integrated circuits;
 the main activities of the Russian Academy of Engineering to recognize foreign scientists and engineers who have achieved outstanding results.
 
-**Biography**
+## **Biography**
  In 1999, Prof. Leonid Ivanov successfully defended his Ph.D dissertation. His key findings are published in the following collections of works: Moscow Institute of Thermal Technology "Science, Equipment, Production", Central Design Bureau of Heavy Engineering. In 2001, he was assigned the academic title "Senior research associate" (specialty – "system analysis, modeling of different function systems, computer technologies in a national economy"). 
 In 2000, L. Ivanov underwent professional retraining according to the Russian and British program in Shchyolkovo training center (Moscow region) with a specialization in small and medium entrepreneurship management. He defended qualification paper with "A" grade. His work generated great interest by the fact that it contained specific, generalized and integrated efficiency factors of advertizing. What is more, specific examples showed how to determine these factors.
 Being the Head of publishing houses L. Ivanov made a lot of effort and devoted his energy for on-time and high-quality edition of journals. For instance, in PANORAMA publishing house (16 publishing houses: "Stroyizdat", "Promizdat", "Medizdat", "Selkhozizdat", etc.) he was responsible for the edition of more than 200 research and practice, business journals. All of them were issued at a high level and within the established time limit. Experts’ responses on his work and received awards (diplomas, letters of recognition, certificates of acknowledgement, etc.) testify to this fact.
