@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="speech-container">
+<div class="topics">
     <h1>Keynote / Invited Speech</h1>
 
     <ul>
