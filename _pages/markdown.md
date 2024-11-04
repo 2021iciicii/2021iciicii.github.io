@@ -1,10 +1,8 @@
 ---
-permalink: /markdown/
+permalink: /Organizing/
 title: "Markdown"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## Locations of key files/directories
