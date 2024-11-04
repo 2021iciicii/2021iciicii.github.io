@@ -32,15 +32,6 @@ redirect_from:
 </div>
 
 <style>
-body {
-    margin: 0; /* 去掉默认的边距 */
-    padding: 0; /* 去掉默认的内边距 */
-    display: flex; /* 使用flexbox布局 */
-    justify-content: center; /* 水平居中 */
-    align-items: center; /* 垂直居中 */
-    height: 100vh; /* 占满整个视口高度 */
-    background-color: #f0f0f0; /* 背景色 */
-}
 
 .speech-container {
     max-width: 1200px; /* 设置最大宽度 */
