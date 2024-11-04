@@ -13,6 +13,8 @@ redirect_from:
     <p>To promote the integration of informatization and industrialization, the transformation and upgrading of China's manufacturing industry, and to strengthen China-Russia cooperation in science and technology under the "Belt and Road Initiative," <strong>Shantou University</strong>, together with the <strong>Russian Academy of Engineering</strong> and <strong>Wuhan University of Technology</strong>, hosted the <strong>5th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> in the "China-Russia Year of Science and Technology Innovation."</p>
 </div>
 
+![Conference Image](assets/conference.jpg)
+
 <div class="introduction">
     <h2>Introduction</h2>
     <p>The <strong>Fifth International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> is hosted by <strong>Shantou University, China</strong>, co-hosted by <strong>Russian Academy of Engineering (RAE), Russia</strong> and <strong>Wuhan University of Technology, China</strong>. It is technically sponsored by:</p>
