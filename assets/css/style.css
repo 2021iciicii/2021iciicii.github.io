@@ -57,27 +57,22 @@ h1 {
 
 
 .speech-container {
-    max-width: 2000px; /* 设置一个最大宽度 */
-    margin: 0 auto; /* 自动左右边距，使其居中 */
+    max-width: 1800px; /* 设置最大宽度 */
+    margin: 0 auto; /* 自动左右边距以居中 */
     padding: 20px; /* 内边距 */
     text-align: center; /* 使文本居中 */
 }
 
+.speech-container h1 {
+    font-size: 2em; /* 可以根据需要调整标题大小 */
+    margin-bottom: 20px; /* 标题与内容之间的间距 */
+}
+
 .speech-container ul {
-    list-style-type: none; /* 去掉默认列表样式 */
+    list-style-type: none; /* 去掉默认的列表样式 */
     padding: 0; /* 去掉内边距 */
 }
 
 .speech-container li {
     margin: 30px 0; /* 每个列表项之间的间距 */
 }
-
-.speech-container a {
-    text-decoration: none; /* 去掉链接下划线 */
-    color: #007BFF; /* 链接颜色 */
-}
-
-.speech-container a:hover {
-    text-decoration: underline; /* 悬停时下划线 */
-}
-
