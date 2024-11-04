@@ -88,6 +88,7 @@ redirect_from:
 
 <h2>Keynote/Invited Speech - Dec. 18</h2>
 <p>(Zoom ID: to be confirmed; Password: to be confirmed)</p>
+
 <table>
     <thead>
         <tr>
@@ -234,16 +235,21 @@ table {
 
 th, td {
     border: 1px solid #ddd; /* 边框样式 */
-    padding: 12px; /* 单元格内边距 */
+    padding: 15px; /* 单元格内边距 */
     text-align: left; /* 左对齐 */
 }
 
 th {
-    background-color: #f2f2f2; /* 表头背景颜色 */
+    background-color: #007bff; /* 表头背景颜色 */
+    color: white; /* 字体颜色 */
     font-weight: bold; /* 字体加粗 */
 }
 
+tr:nth-child(even) {
+    background-color: #f9f9f9; /* 偶数行背景颜色 */
+}
+
 tr:hover {
-    background-color: #f5f5f5; /* 鼠标悬停效果 */
+    background-color: #f1f1f1; /* 鼠标悬停效果 */
 }
 </style>
