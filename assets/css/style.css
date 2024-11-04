@@ -76,3 +76,32 @@ h1 {
 .speech-container li {
     margin: 30px 0; /* 每个列表项之间的间距 */
 }
+
+.talk-container {
+    max-width: 800px; /* 设置最大宽度 */
+    margin: 0 auto; /* 居中对齐 */
+    padding: 20px; /* 内边距 */
+    text-align: justify; /* 两端对齐 */
+}
+
+.talk-header {
+    display: flex; /* 使用弹性布局 */
+    justify-content: space-between; /* 在主轴上分配空间 */
+    align-items: flex-start; /* 纵轴上顶部对齐 */
+}
+
+.presenter-photo {
+    width: 150px; /* 照片宽度 */
+    height: auto; /* 自动高度 */
+    border-radius: 50%; /* 圆形照片 */
+    margin-left: 20px; /* 照片左边距 */
+}
+
+h2, h3 {
+    text-align: left; /* 左对齐标题 */
+}
+
+p, ul {
+    margin: 10px 0; /* 段落上下边距 */
+}
+
