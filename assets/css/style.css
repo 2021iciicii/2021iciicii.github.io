@@ -5,7 +5,7 @@
 .partners h2, 
 .academic-committee h2, 
 .local-organizing-committee h2 {
-    max-width: 800px; /* 或其他宽度，根据需要调整 */
+    max-width: 1600px; /* 或其他宽度，根据需要调整 */
     margin: 0 auto; /* 使标题居中 */
     text-align: justify; /* 使标题两端对齐 */
 }
