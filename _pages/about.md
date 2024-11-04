@@ -83,56 +83,167 @@ redirect_from:
     </ul>
 </div>
 
-<div class="organizers">
-    <h2>Organizers</h2>
-    <ul>
-        <li><strong>Shantou University, Shantou, China</strong></li>
-        <li><strong>Russian Academy of Engineering (RAE), Russia</strong></li>
-        <li><strong>Wuhan University of Technology, Wuhan, China</strong></li>
-    </ul>
-</div>
+<h1>ICIICII 2021 Program</h1>
+<p>(Dec. 18-19, 2021) China Standard Time, GMT+8</p>
 
-<div class="partners">
-    <h2>Partners</h2>
-    <ul>
-        <li>International Joint Research Center of Evolutionary Intelligence and Robotics of Guangdong Province, China</li>
-        <li>International Cooperation Base of Evolutionary Intelligence and Robotics of Guangdong Province, China</li>
-        <li>Key Laboratory of Digital Signal and Image Processing of Guangdong Province, Shantou, China</li>
-        <li>Shantou Institute of Robotics and Intelligent Manufacturing, Shantou, China</li>
-        <li>IEEE SMC Society (Wuhan Chapter)</li>
-        <li>IEEE SMC Society Technical Committee on Enterprise Information Systems</li>
-        <li>IEEE SMC Society Technical Committee on Enterprise Architecture and Engineering</li>
-        <li>IFTP WG 8.9 and WG 8.12</li>
-    </ul>
-</div>
+<h2>Keynote/Invited Speech - Dec. 18</h2>
+<p>(Zoom ID: to be confirmed; Password: to be confirmed)</p>
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="6">Dec. 18 AM</td>
+            <td>8:10-8:20</td>
+            <td>Opening Ceremony<br>Speaker: Prof. Zhifeng Hao (Shantou University)</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>8:20-9:10</td>
+            <td>Keynote/Invited Speech 1<br>Speaker: Prof. Qingfu Zhang (City University of Hong Kong)<br>Title: Decomposition Based Multiobjective Evolutionary Computation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9:10-9:30</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9:30-10:20</td>
+            <td>Keynote/Invited Speech 2<br>Speaker: Prof. Kaushik Rajashekara (University of Houston, USA)<br>Title: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:20-10:30</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:30-11:20</td>
+            <td>Keynote/Invited Speech 3<br>Speaker: Prof. Zengguang Hou<br>Title: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="6">Dec. 18 PM</td>
+            <td>11:20-14:00</td>
+            <td>Lunch & Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00-14:50</td>
+            <td>Keynote/Invited Speech 4<br>Speaker: Prof. Leonid Ivanov<br>Title: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>14:50-15:40</td>
+            <td>Keynote/Invited Speech 5<br>Speaker: Prof. Xinye Cai<br>Title: Some advances in Optimization based on Computational Intelligence and their applications in Aviation</td>
+            <td>Dr. Biao Xu / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>15:40-15:50</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15:50-16:40</td>
+            <td>Keynote/Invited Speech 6<br>Speaker: Prof. Hui Li<br>Title: Variable-Length Optimization via Evolutionary Computation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16:40-17:30</td>
+            <td>Keynote/Invited Speech 7<br>Speaker: Prof. Zhou Zhao<br>Title: Intelligent Interaction-Oriented Multimodal Semantic Understanding</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="6">Keynote/Invited Speech - Dec. 19</td>
+            <td>8:30-9:20</td>
+            <td>Keynote/Invited Speech 1<br>Speaker: Prof. Arturo Suman Bretas (University of Florida, USA)<br>Title: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</td>
+            <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
+        </tr>
+        <tr>
+            <td>9:20-10:10</td>
+            <td>Keynote/Invited Speech 2<br>Speaker: Prof. Haibin Zhu (Nipissing University, Canada)<br>Title: E-CARGO and Role-Based Collaboration</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:10-10:20</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:20-11:10</td>
+            <td>Keynote/Invited Speech 3<br>Speaker: Prof. Han Huang<br>Title: Applications of Optimization Based on Computational Intelligence</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:10-12:00</td>
+            <td>Keynote/Invited Speech 4<br>Speaker: Prof. Jianyong Sun<br>Title: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="6">Dec. 19 PM</td>
+            <td>12:00-14:00</td>
+            <td>Lunch & Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00-14:50</td>
+            <td>Keynote/Invited Speech 5<br>Speaker: Prof. Xiaomin Zhu<br>Title: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</td>
+            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
+        </tr>
+        <tr>
+            <td>14:50-15:40</td>
+            <td>Keynote/Invited Speech 6<br>Speaker: Prof. Yun Liang<br>Title: Generic Interactive Pixel-level Image Editing</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15:40-15:50</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15:50-16:40</td>
+            <td>Keynote/Invited Speech 7<br>Speaker: Prof. Lijun Zhang<br>Title: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16:40-17:30</td>
+            <td>Keynote/Invited Speech 8<br>Speaker: Prof. Lijie Li (Swansea University, UK)<br>Title: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>17:30-18:20</td>
+            <td>Keynote/Invited Speech 9<br>Speaker: Prof. Yaochu Jin<br>Title: Privacy-Preserving Data-Driven Evolutionary Optimization</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-<div class="academic-committee">
-    <h2>Academic Committee</h2>
-    <p><strong>Honorary General Chair</strong><br>
-    Leonid Alekseevich Ivanov, Russian Academy of Engineering, Russia</p>
-    <p><strong>General Chairs</strong><br>
-    Lida Xu, Old Dominion University, USA<br>
-    Zhifeng Hao, Shantou University, China<br>
-    Quan Wang, Shantou University, China</p>
-    <p><strong>Program Committee Chairs</strong><br>
-    Zhun Fan, Guangdong Provincial Key Laboratory of Digital Signal and Image Processing, China<br>
-    Pan Wang, Wuhan University of Technology, China<br>
-    Lijie Li, Swansea University, UK</p>
-    <p><strong>Advisory Committee Chairs</strong><br>
-    Tangmin Chen, Shenzhen RoadRover Technology Co., Ltd, China<br>
-    Lingxia Li, Old Dominion University, USA<br>
-    Dingfang Chen, Wuhan University of Technology, China</p>
-</div>
+<style>
+table {
+    width: 100%; /* 表格宽度 */
+    border-collapse: collapse; /* 合并边框 */
+    margin: 20px 0; /* 表格上下间距 */
+}
 
-<div class="local-organizing-committee">
-    <h2>Local Organizing Committee</h2>
-    <p><strong>Local Organizing Chairs</strong><br>
-    Xinhua Guo, Wuhan University of Technology, China<br>
-    Menglun Tao, Wuhan University of Technology, China<br>
-    Chuliang Wei, Shantou University, China<br>
-    Ke Li, Shantou University, China</p>
-    <p><strong>Local Organizing Co-chairs</strong><br>
-    Jie Mei, Wuhan University of Technology, China<br>
-    Anmin Zhou, Shantou University, China<br>
-    Qibing Lu, Wuhan University of Technology, China</p>
-</div>
+th, td {
+    border: 1px solid #ddd; /* 边框样式 */
+    padding: 12px; /* 单元格内边距 */
+    text-align: left; /* 左对齐 */
+}
+
+th {
+    background-color: #f2f2f2; /* 表头背景颜色 */
+    font-weight: bold; /* 字体加粗 */
+}
+
+tr:hover {
+    background-color: #f5f5f5; /* 鼠标悬停效果 */
+}
+</style>
