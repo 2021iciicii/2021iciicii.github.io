@@ -91,10 +91,10 @@ h1 {
 }
 
 .presenter-photo {
-    width: 150px; /* 照片宽度 */
-    height: auto; /* 自动高度 */
-    border-radius: 50%; /* 圆形照片 */
+    width: 72px; /* 照片宽度（约一寸） */
+    height: 96px; /* 照片高度（约一寸） */
     margin-left: 20px; /* 照片左边距 */
+    object-fit: cover; /* 确保图片填充区域，不失真 */
 }
 
 h2, h3 {
