@@ -3,11 +3,13 @@ layout: archive
 title: 
 permalink: /Speech/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
 
-<div class="topics">
+<div class="speech-container">
     <h1>Keynote / Invited Speech</h1>
 
     <ul>
