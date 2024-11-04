@@ -2,7 +2,8 @@
 permalink: /Organizing/
 title: "Markdown"
 author_profile: true
-redirect_from: 
+redirect_from:  
+- /resume
 ---
 
 ## Locations of key files/directories
