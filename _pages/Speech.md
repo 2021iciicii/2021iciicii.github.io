@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="speech-container">
     <h1>Keynote / Invited Speech</h1>
 
     <ul>
@@ -32,4 +31,4 @@ redirect_from:
         <li><a href="talk4/">Prof. Yaochu Jin : Privacy-Preserving Data-Driven Evolutionary Optimization</a></li>
         <li><a href="talk4/">Dr. Shuo Deng : Electron Transport through Dynamic Semiconductor Junction</a></li>
     </ul>
-</div>
+
