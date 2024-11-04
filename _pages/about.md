@@ -161,8 +161,24 @@ redirect_from:
             <td>Keynote/Invited Speech 7<br>Speaker: Prof. Zhou Zhao<br>Title: Intelligent Interaction-Oriented Multimodal Semantic Understanding</td>
             <td></td>
         </tr>
+    </tbody>
+</table>
+
+<h2>Keynote/Invited Speech - Dec. 19</h2>
+<p>(Zoom ID: to be confirmed; Password: to be confirmed)</p>
+
+<table>
+    <thead>
         <tr>
-            <td rowspan="6">Keynote/Invited Speech - Dec. 19</td>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Dec. 19 AM</td>
             <td>8:30-9:20</td>
             <td>Keynote/Invited Speech 1<br>Speaker: Prof. Arturo Suman Bretas (University of Florida, USA)<br>Title: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</td>
             <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
@@ -188,7 +204,7 @@ redirect_from:
             <td></td>
         </tr>
         <tr>
-            <td rowspan="6">Dec. 19 PM</td>
+            <td rowspan="5">Dec. 19 PM</td>
             <td>12:00-14:00</td>
             <td>Lunch & Break</td>
             <td></td>
