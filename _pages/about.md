@@ -83,6 +83,7 @@ redirect_from:
     </ul>
 </div>
 
+
 <h1>ICIICII 2021 Program</h1>
 <p>(Dec. 18-19, 2021) China Standard Time, GMT+8</p>
 
@@ -108,7 +109,7 @@ redirect_from:
         <tr>
             <td>8:20-9:10</td>
             <td>Keynote/Invited Speech 1<br>Speaker: Prof. Qingfu Zhang (City University of Hong Kong)<br>Title: Decomposition Based Multiobjective Evolutionary Computation</td>
-            <td></td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td>9:10-9:30</td>
@@ -118,7 +119,7 @@ redirect_from:
         <tr>
             <td>9:30-10:20</td>
             <td>Keynote/Invited Speech 2<br>Speaker: Prof. Kaushik Rajashekara (University of Houston, USA)<br>Title: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</td>
-            <td></td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td>10:20-10:30</td>
@@ -128,7 +129,7 @@ redirect_from:
         <tr>
             <td>10:30-11:20</td>
             <td>Keynote/Invited Speech 3<br>Speaker: Prof. Zengguang Hou<br>Title: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</td>
-            <td></td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td rowspan="6">Dec. 18 PM</td>
@@ -154,12 +155,12 @@ redirect_from:
         <tr>
             <td>15:50-16:40</td>
             <td>Keynote/Invited Speech 6<br>Speaker: Prof. Hui Li<br>Title: Variable-Length Optimization via Evolutionary Computation</td>
-            <td></td>
+            <td>Dr. Biao Xu / Dr. Wenji Li</td>
         </tr>
         <tr>
             <td>16:40-17:30</td>
             <td>Keynote/Invited Speech 7<br>Speaker: Prof. Zhou Zhao<br>Title: Intelligent Interaction-Oriented Multimodal Semantic Understanding</td>
-            <td></td>
+            <td>Dr. Biao Xu / Dr. Wenji Li</td>
         </tr>
     </tbody>
 </table>
@@ -186,7 +187,7 @@ redirect_from:
         <tr>
             <td>9:20-10:10</td>
             <td>Keynote/Invited Speech 2<br>Speaker: Prof. Haibin Zhu (Nipissing University, Canada)<br>Title: E-CARGO and Role-Based Collaboration</td>
-            <td></td>
+            <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
         </tr>
         <tr>
             <td>10:10-10:20</td>
@@ -196,7 +197,7 @@ redirect_from:
         <tr>
             <td>10:20-11:10</td>
             <td>Keynote/Invited Speech 3<br>Speaker: Prof. Han Huang<br>Title: Applications of Optimization Based on Computational Intelligence</td>
-            <td></td>
+            <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
         </tr>
         <tr>
             <td>11:10-12:00</td>
@@ -217,7 +218,7 @@ redirect_from:
         <tr>
             <td>14:50-15:40</td>
             <td>Keynote/Invited Speech 6<br>Speaker: Prof. Yun Liang<br>Title: Generic Interactive Pixel-level Image Editing</td>
-            <td></td>
+            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
         </tr>
         <tr>
             <td>15:40-15:50</td>
@@ -227,17 +228,17 @@ redirect_from:
         <tr>
             <td>15:50-16:40</td>
             <td>Keynote/Invited Speech 7<br>Speaker: Prof. Lijun Zhang<br>Title: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</td>
-            <td></td>
+            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
         </tr>
         <tr>
             <td>16:40-17:30</td>
             <td>Keynote/Invited Speech 8<br>Speaker: Prof. Lijie Li (Swansea University, UK)<br>Title: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</td>
-            <td></td>
+            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
         </tr>
         <tr>
             <td>17:30-18:20</td>
             <td>Keynote/Invited Speech 9<br>Speaker: Prof. Yaochu Jin<br>Title: Privacy-Preserving Data-Driven Evolutionary Optimization</td>
-            <td></td>
+            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
         </tr>
     </tbody>
 </table>
