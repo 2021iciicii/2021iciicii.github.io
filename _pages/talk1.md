@@ -7,7 +7,7 @@ permalink: /Speech/talk1/
 <div class="talk-container">
     <div class="talk-header">
         <h2>Presenter: Prof. Leonid Alekseevich Ivanov</h2>
-         <img src="Leonid_Alekseevich_Ivanov.jpg" alt="Prof. Leonid Alekseevich Ivanov" class="presenter-photo">
+         <img src="Leonid_Alekseevich_Ivanov.png" alt="Prof. Leonid Alekseevich Ivanov" class="presenter-photo">
     </div>
 
     <h3>Abstract</h3>
