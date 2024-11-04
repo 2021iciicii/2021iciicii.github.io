@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: Keynote / Invited Speech
 permalink: /Speech/
 author_profile: true
 redirect_from:
