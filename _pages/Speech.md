@@ -34,7 +34,7 @@ redirect_from:
 <style>
 
 .speech-container {
-    max-width: 1200px; /* 设置最大宽度 */
+    max-width: 2000px; /* 设置最大宽度 */
     margin: 0 auto; /* 居中 */
     padding: 30px; /* 内边距 */
     background-color: #ffffff; /* 背景色 */
