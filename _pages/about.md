@@ -204,7 +204,7 @@ redirect_from:
             <td></td>
         </tr>
         <tr>
-            <td rowspan="5">Dec. 19 PM</td>
+            <td rowspan="6">Dec. 19 PM</td>
             <td>12:00-14:00</td>
             <td>Lunch & Break</td>
             <td></td>
