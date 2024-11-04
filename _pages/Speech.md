@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="welcome">
+<div class="speech-container">
     <h1>Keynote / Invited Speech</h1>
 
     <ul>
