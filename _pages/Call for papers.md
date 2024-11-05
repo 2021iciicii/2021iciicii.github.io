@@ -3,7 +3,6 @@ permalink: /Papers/
 redirect_from:  
 - /resume
 ---
-
 {% include base_path %}
 <div class="cfp-container">
   <h1 class="cfp-title">Call for Papers</h1>
@@ -87,54 +86,55 @@ redirect_from:
 </div>
 
 <style>
+  /* Container */
   .cfp-container {
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
-    padding: 40px;
-    background-color: #f4f4f9;
-    border-radius: 10px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    font-family: Arial, sans-serif;
   }
 
+  /* Title */
   .cfp-title {
-    font-size: 2.5em;
-    color: #333;
+    font-size: 2.2em;
+    color: #2C3E50;
     text-align: center;
-    margin-bottom: 30px;
-    font-weight: bold;
+    margin-bottom: 20px;
   }
 
+  /* Intro */
   .cfp-intro {
     font-size: 1.1em;
-    color: #444;
-    text-align: center;
+    color: #34495E;
     line-height: 1.6;
+    text-align: center;
     margin-bottom: 30px;
   }
 
   .cfp-details {
     font-size: 1.1em;
-    color: #555;
-    line-height: 1.8;
+    color: #34495E;
+    line-height: 1.6;
     margin-bottom: 40px;
   }
 
+  /* Subtitle */
   .cfp-subtitle {
     font-size: 1.8em;
-    color: #333;
+    color: #2980B9;
     margin-top: 40px;
     margin-bottom: 20px;
     font-weight: bold;
-    text-align: left;
     border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
   }
 
+  /* Topics list */
   .cfp-topics {
     list-style-type: none;
     padding: 0;
     font-size: 1.1em;
-    color: #555;
+    color: #34495E;
     margin-bottom: 40px;
   }
 
@@ -148,10 +148,11 @@ redirect_from:
     content: "•";
     position: absolute;
     left: 0;
-    color: #007bff;
+    color: #2980B9;
     font-weight: bold;
   }
 
+  /* Timetable table */
   .cfp-dates {
     width: 100%;
     border-collapse: collapse;
@@ -161,7 +162,7 @@ redirect_from:
   .cfp-dates td {
     padding: 12px;
     font-size: 1.1em;
-    color: #555;
+    color: #34495E;
     border-bottom: 1px solid #ddd;
   }
 
@@ -174,7 +175,7 @@ redirect_from:
     border-bottom: none;
   }
 
-  /* Small screen responsiveness */
+  /* Responsive design */
   @media (max-width: 768px) {
     .cfp-container {
       padding: 20px;
@@ -198,4 +199,3 @@ redirect_from:
     }
   }
 </style>
-
