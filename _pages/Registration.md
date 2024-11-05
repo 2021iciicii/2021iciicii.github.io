@@ -38,17 +38,12 @@ redirect_from:
       </thead>
       <tbody>
         <tr>
-          <td>Dec. 16, 2022</td>
-          <td>Keynote Speech</td>
-          <td>939 2964 0436</td>
-        </tr>
-        <tr>
-          <td>Dec. 17, 2022</td>
+          <td>Dec. 18, 2021</td>
           <td>Invited Speech #1</td>
           <td>944 8859 3478</td>
         </tr>
         <tr>
-          <td>Dec. 18, 2022</td>
+          <td>Dec. 19, 2021</td>
           <td>Invited Speech #2</td>
           <td>944 8859 3478</td>
         </tr>
