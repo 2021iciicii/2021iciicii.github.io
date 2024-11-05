@@ -7,12 +7,12 @@ redirect_from:
 
 {% include base_path %}
 <div class="registration-container">
-  <h1 class="registration-title">Registration - ICIICII 2022</h1>
+  <h1 class="registration-title">Registration - ICIICII 2021</h1>
   
   <div class="registration-section">
     <h2 class="section-title">1. Conference Platform</h2>
     <p class="registration-text">
-      The ICIICII 2022 will be hosted online via <strong>ZOOM</strong>, with a capacity of 500 participants. Registration is open to scholars and researchers worldwide.
+      The ICIICII 2021 will be hosted online via <strong>ZOOM</strong>, with a capacity of 500 participants. Registration is open to scholars and researchers worldwide.
     </p>
   </div>
 
