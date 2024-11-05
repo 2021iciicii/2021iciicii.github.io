@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Sitemap"
-permalink: /sitemap/
-author_profile: true
+title: "Call for papers"
+permalink: /Call for papers/
 ---
 
 {% include base_path %}
