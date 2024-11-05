@@ -1,6 +1,6 @@
 ---
 title: "Call for papers"
-permalink: /Call for papers/
+permalink: /Papers/
 ---
 
 {% include base_path %}
