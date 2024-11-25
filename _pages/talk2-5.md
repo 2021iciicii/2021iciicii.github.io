@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation"
-permalink: /Speech/talk5/
+permalink: /Speech/talk2-5/
 ---
 
 <div class="talk-container">
