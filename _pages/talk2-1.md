@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Promising Areas of Research and Technological Cooperation in Different Fields of Engineering"
-permalink: /Speech/talk1/
+permalink: /Speech/talk2-1/
 ---
 
 <div class="talk-container">
