@@ -9,6 +9,7 @@ redirect_from:
     <h1>Keynote / Invited Speech</h1>
     <div class="speeches">
         <div class="speech-column">
+            <h2>Engineering and Technology</h2>
             <ul>
                 <li><a href="talk1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
                 <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
@@ -23,6 +24,7 @@ redirect_from:
             </ul>
         </div>
         <div class="speech-column">
+            <h2>Engineering and Technology</h2>
             <ul>
                 <li><a href="talk1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
                 <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
@@ -37,6 +39,7 @@ redirect_from:
             </ul>
         </div>
         <div class="speech-column">
+            <h2>Engineering and Technology</h2>
             <ul>
                 <li><a href="talk1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
                 <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
@@ -147,4 +150,11 @@ footer {
     bottom: 0;
 }
 
+.speech-column h2 {
+    font-size: 1.8em; /* 调整标题大小 */
+    color: #2c3e50; /* 设置标题颜色 */
+    margin-bottom: 15px; /* 与列表之间的间距 */
+    text-align: center; /* 标题居中 */
+}
+  
 </style>
