@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Research on optimization algorithm based on artificial intelligence -- Preliminary progress"
-permalink: /Speech/talk12/
+permalink: /Speech/talk2-12/
 ---
 
 <div class="talk-container">
