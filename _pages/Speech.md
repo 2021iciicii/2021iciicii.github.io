@@ -48,6 +48,8 @@ redirect_from:
                 <li><a href="talk2-14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
                 <li><a href="talk2-15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
                 <li><a href="talk2-16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
+                <li><a href="talk2-17/">Prof. Yaochu Jin: Privacy-Preserving Data-Driven Evolutionary Optimization</a></li>
+                <li><a href="talk2-18/">Dr. Shuo Deng: Electron Transport through Dynamic Semiconductor Junction</a></li>
             </ul>
         </div>
         <div class="speech-column">
