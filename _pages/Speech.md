@@ -52,20 +52,29 @@ redirect_from:
 .speeches {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center; /* 使所有列居中对齐 */
     gap: 20px; /* 每列之间的间距 */
 }
 
 .speech-column {
-    width: 23%; /* 设置每列宽度为 23%，以便能够容纳四列，并留出间隙 */
+    width: 22%; /* 设置每列宽度为 22%，以便能够容纳四列，并留出间隙 */
     box-sizing: border-box; /* 确保 padding 和 border 不影响整体宽度 */
     padding: 10px;
+    background-color: #f9f9f9; /* 给每列添加背景色，使它们更明显 */
+    text-align: center; /* 每列内文本居中 */
 }
 
 .speech-column h2 {
-    font-size: 1.8em; /* 调整标题大小 */
+    font-size: 1.5em; /* 调整标题大小 */
     color: #2c3e50; /* 设置标题颜色 */
     margin-bottom: 15px; /* 与列表之间的间距 */
-    text-align: center; /* 标题居中 */
+    padding: 15px;
+    background-color: #e0e0e0; /* 确保标题有统一的背景色 */
+    border-radius: 5px; /* 使标题框有圆角效果 */
+    height: 80px; /* 设置统一的高度 */
+    display: flex;
+    align-items: center; /* 使文字垂直居中 */
+    justify-content: center; /* 使文字水平居中 */
 }
 
 .speech-column ul {
@@ -75,10 +84,13 @@ redirect_from:
 
 .speech-column li {
     margin: 15px 0;
-    padding: 15px;
+    padding: 20px;
     background-color: #f1f1f1;
     border: 1px solid #ddd;
     border-radius: 5px;
+    height: 150px; /* 设置固定高度，确保每个框的大小一致 */
+    display: flex;
+    align-items: center; /* 使文字在框内垂直居中 */
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
@@ -91,6 +103,8 @@ redirect_from:
     text-decoration: none;
     color: #2980b9;
     font-weight: bold;
+    text-align: center; /* 链接文字居中 */
+    width: 100%;
 }
 
 .speech-column li a:hover {
