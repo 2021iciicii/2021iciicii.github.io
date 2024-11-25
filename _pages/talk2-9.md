@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation"
-permalink: /Speech/talk9/
+permalink: /Speech/talk2-9/
 ---
 
 <div class="talk-container">
