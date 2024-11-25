@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective home-based Rehabilitation "
-permalink: /Speech/talk8/
+permalink: /Speech/talk2-8/
 ---
 
 <div class="talk-container">
