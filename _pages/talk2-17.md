@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Privacy-Preserving Data-Driven Evolutionary Optimization"
-permalink: /Speech/talk17/
+permalink: /Speech/talk2-17/
 ---
 
 <div class="talk-container">
