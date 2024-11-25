@@ -57,21 +57,25 @@ redirect_from:
 <style>
   
 .speech-container {
-    position: relative; /* 改为相对定位，允许页面滚动 */
-    width: 100%;
-    max-width: 100%;
+    position: relative; /* 相对定位，允许正常滚动 */
+    width: 100vw; /* 占满整个视口宽度，避免受父容器的影响 */
+    margin-left: calc(50% - 50vw); /* 强制使容器的起始点扩展到页面边界 */
     padding: 30px;
-    margin: 0 auto;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
 .speech-container h1 {
-    font-size: 2.5em; /* 增大标题大小 */
-    color: #2c3e50; /* 标题颜色 */
-    margin-bottom: 20px; /* 标题与内容之间的间距 */
-    text-align: center; /* 标题居中 */
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    position: sticky; /* 保持标题在页面顶部可见 */
+    top: 0;
+    background-color: #ffffff;
+    padding: 20px;
+    z-index: 10;
 }
 
 .speech-container ul {
@@ -132,6 +136,15 @@ redirect_from:
 
 .speech-column a:hover {
     text-decoration: underline;
+}
+
+footer {
+    position: relative; /* 页脚位于页面底部 */
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+    bottom: 0;
 }
 
 </style>
