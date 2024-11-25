@@ -15,29 +15,77 @@ redirect_from:
                 <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
                 <li><a href="talk3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
                 <li><a href="talk4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
+                <li><a href="talk5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
+                <li><a href="talk6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
+                <li><a href="talk7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
+                <li><a href="talk8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
+                <li><a href="talk9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
+                <li><a href="talk10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
+                <li><a href="talk11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
+                <li><a href="talk12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
+                <li><a href="talk13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
+                <li><a href="talk14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
+                <li><a href="talk15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
+                <li><a href="talk16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
             </ul>
         </div>
         <div class="speech-column">
             <h2>Optimization and Computation</h2>
             <ul>
+                <li><a href="talk1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
+                <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
+                <li><a href="talk3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
+                <li><a href="talk4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
                 <li><a href="talk5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
                 <li><a href="talk6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
                 <li><a href="talk7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
                 <li><a href="talk8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
+                <li><a href="talk9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
+                <li><a href="talk10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
+                <li><a href="talk11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
+                <li><a href="talk12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
+                <li><a href="talk13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
+                <li><a href="talk14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
+                <li><a href="talk15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
+                <li><a href="talk16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
             </ul>
         </div>
         <div class="speech-column">
             <h2>Data and Collaboration</h2>
             <ul>
+                <li><a href="talk1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
+                <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
+                <li><a href="talk3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
+                <li><a href="talk4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
+                <li><a href="talk5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
+                <li><a href="talk6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
+                <li><a href="talk7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
+                <li><a href="talk8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
                 <li><a href="talk9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
                 <li><a href="talk10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
                 <li><a href="talk11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
                 <li><a href="talk12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
+                <li><a href="talk13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
+                <li><a href="talk14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
+                <li><a href="talk15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
+                <li><a href="talk16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
             </ul>
         </div>
         <div class="speech-column">
             <h2>Intelligent Systems</h2>
             <ul>
+                <li><a href="talk1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
+                <li><a href="talk2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
+                <li><a href="talk3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
+                <li><a href="talk4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
+                <li><a href="talk5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
+                <li><a href="talk6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
+                <li><a href="talk7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
+                <li><a href="talk8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
+                <li><a href="talk9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
+                <li><a href="talk10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
+                <li><a href="talk11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
+                <li><a href="talk12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
                 <li><a href="talk13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
                 <li><a href="talk14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
                 <li><a href="talk15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
