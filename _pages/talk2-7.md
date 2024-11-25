@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Intelligent Interaction-Oriented Multimodal Semantic Understanding"
-permalink: /Speech/talk7/
+permalink: /Speech/talk2-7/
 ---
 
 <div class="talk-container">
