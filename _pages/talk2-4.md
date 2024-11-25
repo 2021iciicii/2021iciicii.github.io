@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Enhancement of Engagement Based on BCI for Rehabilitation Robotics"
-permalink: /Speech/talk4/
+permalink: /Speech/talk2-4/
 ---
 
 <div class="talk-container">
