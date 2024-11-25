@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Generic Interactive Pixel-level Image Editing"
-permalink: /Speech/talk14/
+permalink: /Speech/talk2-14/
 ---
 
 <div class="talk-container">
