@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "E-CARGO and Role-Based Collaboration"
-permalink: /Speech/talk10/
+permalink: /Speech/talk2-10/
 ---
 
 <div class="talk-container">
