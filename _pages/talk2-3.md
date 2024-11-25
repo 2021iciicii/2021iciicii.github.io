@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Power Electronics and Communications with Intelligent Control Enabled Smart Grid"
-permalink: /Speech/talk3/
+permalink: /Speech/talk2-3/
 ---
 
 <div class="talk-container">
