@@ -65,16 +65,9 @@ redirect_from:
 }
 
 .speech-column h2 {
-    font-size: 1.5em; /* 调整标题大小 */
+    font-size: 1em; /* 调整标题大小 */
     color: #2c3e50; /* 设置标题颜色 */
     margin-bottom: 15px; /* 与列表之间的间距 */
-    padding: 15px;
-    background-color: #e0e0e0; /* 确保标题有统一的背景色 */
-    border-radius: 5px; /* 使标题框有圆角效果 */
-    height: 80px; /* 设置统一的高度 */
-    display: flex;
-    align-items: center; /* 使文字垂直居中 */
-    justify-content: center; /* 使文字水平居中 */
 }
 
 .speech-column ul {
