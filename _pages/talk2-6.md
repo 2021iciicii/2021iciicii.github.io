@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Variable-Length Optimization via Evolutionary Computation"
-permalink: /Speech/talk6/
+permalink: /Speech/talk2-6/
 ---
 
 <div class="talk-container">
