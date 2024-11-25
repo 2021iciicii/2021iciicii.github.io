@@ -57,13 +57,14 @@ redirect_from:
 <style>
 
 .speech-container {
-    max-width: 2000px; /* 设置最大宽度 */
+    width: 100%;
     margin: 0 auto; /* 居中 */
-    padding: 30px; /* 内边距 */
-    background-color: #ffffff; /* 背景色 */
-    border-radius: 10px; /* 圆角 */
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
+
 
 .speech-container h1 {
     font-size: 2.5em; /* 增大标题大小 */
