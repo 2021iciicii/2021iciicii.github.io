@@ -57,18 +57,16 @@ redirect_from:
 <style>
 
 .speech-container {
-    position: fixed; /* 固定在页面的某个位置 */
-    top: 0; /* 可以根据需要调整位置 */
-    left: 0; /* 可以根据需要调整位置 */
+    position: absolute;
+    top: 0; 
+    left: 0; 
     width: 100vw; /* 占满视口的宽度 */
     padding: 30px;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-    z-index: 1000; /* 使其浮动在其他内容之上 */
+    z-index: 1000; /* 保证层级在其他元素之上 */
 }
-
-
 
 .speech-container h1 {
     font-size: 2.5em; /* 增大标题大小 */
