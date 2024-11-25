@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Synergies between Nanogenerator Based Sensors and Artificial Intelligence"
-permalink: /Speech/talk16/
+permalink: /Speech/talk2-16/
 ---
 
 <div class="talk-container">
