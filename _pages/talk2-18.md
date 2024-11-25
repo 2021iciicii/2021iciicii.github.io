@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Electron Transport through Dynamic Semiconductor Junction"
-permalink: /Speech/talk18/
+permalink: /Speech/talk2-18/
 ---
 
 <div class="talk-container">
