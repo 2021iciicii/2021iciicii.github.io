@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms"
-permalink: /Speech/talk13/
+permalink: /Speech/talk2-13/
 ---
 
 <div class="talk-container">
