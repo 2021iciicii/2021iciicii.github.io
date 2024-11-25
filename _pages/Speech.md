@@ -70,7 +70,7 @@ redirect_from:
 }
 
 .speech-container h1 {
-    font-size: 2.5em;
+    font-size: 2em;
     color: #2c3e50;
     margin-bottom: 20px;
     text-align: center;
@@ -151,7 +151,7 @@ footer {
 }
 
 .speech-column h2 {
-    font-size: 1.8em; /* 调整标题大小 */
+    font-size: 1.2em; /* 调整标题大小 */
     color: #2c3e50; /* 设置标题颜色 */
     margin-bottom: 15px; /* 与列表之间的间距 */
     text-align: center; /* 标题居中 */
