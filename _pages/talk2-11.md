@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Applications of Optimization Based on Computational Intelligence"
-permalink: /Speech/talk11/
+permalink: /Speech/talk2-11/
 ---
 
 <div class="talk-container">
