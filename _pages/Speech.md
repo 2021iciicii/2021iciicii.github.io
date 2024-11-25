@@ -55,17 +55,16 @@ redirect_from:
 
 
 <style>
-
+  
 .speech-container {
-    position: absolute;
-    top: 0; 
-    left: 0; 
-    width: 100vw; /* 占满视口的宽度 */
+    position: relative; /* 改为相对定位，允许页面滚动 */
+    width: 100%;
+    max-width: 100%;
     padding: 30px;
+    margin: 0 auto;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-    z-index: 1000; /* 保证层级在其他元素之上 */
 }
 
 .speech-container h1 {
