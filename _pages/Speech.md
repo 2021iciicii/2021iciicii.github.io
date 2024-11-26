@@ -68,7 +68,7 @@ redirect_from:
         <div class="speech-column">
             <h2>2022</h2>
             <ul>
-                <li><a href="talk3-1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
+                <li><a href="talk3-1/">Prof. Wenjun Zhang: Some Landmark works of Madan M. Gupta with his Collaborators</a></li>
                 <li><a href="talk3-2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
                 <li><a href="talk3-3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
                 <li><a href="talk3-4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
