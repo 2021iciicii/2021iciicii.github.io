@@ -131,6 +131,7 @@ redirect_from:
     font-size: 1em; /* 调整标题大小 */
     color: #2c3e50; /* 设置标题颜色 */
     margin-bottom: 15px; /* 与列表之间的间距 */
+    text-align: center;
 }
 
 .speech-column ul {
