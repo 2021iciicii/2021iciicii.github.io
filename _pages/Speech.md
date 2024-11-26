@@ -93,7 +93,7 @@ redirect_from:
         <div class="speech-column">
             <h2>2023</h2>
             <ul>
-                <li><a href="talk4-1/">Prof. Dingfang Chen: Frontiers in Intelligent Manufacturing (The latest developments and trends in artificial intelligence over the next 5 years, and its applications in the field of intelligent manufacturing)</a></li>
+                <li><a href="talk4-1/">Prof. Dingfang Chen: Frontiers in Intelligent Manufacturing</a></li>
                 <li><a href="talk4-2/">Prof. Kaushik Rajashekara: Current and Future Trends in Transportation Electrification</a></li>
                 <li><a href="talk4-3/">Prof. Zengguang Hou: Intelligent Rehabilitation Technology Based on Brain-Computer Interface</a></li>
                 <li><a href="talk4-4/">Prof. Haibin Zhu: Group Role Assignment with Constraints(GRA+): A New Category of Assignment Problems</a></li>
