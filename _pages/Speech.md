@@ -41,6 +41,7 @@ redirect_from:
                 <li><a href="talk1-28/">Prof. Miroslav Joler: Challenges Toward Design and Fabrication of Smart(er) Clothing.</a></li>
                 <li><a href="talk1-29/">Prof. Alex Noel Joseph Raj: Hybrid U-NET models for lesion segmentation in Medical Images.</a></li>
             </ul>
+            <button class="more-btn">More</button>
         </div>
         <div class="speech-column">
             <h2>2021</h2>
@@ -64,6 +65,7 @@ redirect_from:
                 <li><a href="talk2-17/">Prof. Yaochu Jin: Privacy-Preserving Data-Driven Evolutionary Optimization</a></li>
                 <li><a href="talk2-18/">Dr. Shuo Deng: Electron Transport through Dynamic Semiconductor Junction</a></li>
             </ul>
+            <button class="more-btn">More</button>
         </div>
         <div class="speech-column">
             <h2>2022</h2>
@@ -84,6 +86,7 @@ redirect_from:
                 <li><a href="talk3-14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
                 <li><a href="talk3-15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
                 <li><a href="talk3-16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
+                <button class="more-btn">More</button>
             </ul>
         </div>
         <div class="speech-column">
@@ -105,6 +108,7 @@ redirect_from:
                 <li><a href="talk4-14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
                 <li><a href="talk4-15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
                 <li><a href="talk4-16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
+                <button class="more-btn">More</button>
             </ul>
         </div>
     </div>
@@ -190,4 +194,46 @@ redirect_from:
     z-index: 10;
 }
 
+
+/*Mroe 按键 */
+.speech-column .speech-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.speech-item {
+    display: block;
+}
+
+.speech-item:nth-child(n+16) {
+    display: none; /* Hide items after the 15th one */
+}
+
+.more-btn {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.more-btn:hover {
+    background-color: #0056b3;
+}
+
 </style>
+
+<script>
+    document.querySelectorAll('.more-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            const listItems = this.previousElementSibling.querySelectorAll('.speech-item');
+            listItems.forEach((item, index) => {
+                if (index >= 15) {
+                    item.style.display = 'block';  // Show the hidden items
+                }
+            });
+            this.style.display = 'none';  // Hide the "More" button after click
+        });
+    });
+</script>
