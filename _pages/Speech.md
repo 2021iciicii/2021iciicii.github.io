@@ -142,7 +142,7 @@ redirect_from:
     background-color: #f1f1f1;
     border: 1px solid #ddd;
     border-radius: 5px;
-    height: 150px; /* 设置固定高度，确保每个框的大小一致 */
+    height: 155px; /* 设置固定高度，确保每个框的大小一致 */
     display: flex;
     align-items: center; /* 使文字在框内垂直居中 */
     transition: transform 0.3s, box-shadow 0.3s;
