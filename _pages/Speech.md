@@ -93,22 +93,15 @@ redirect_from:
         <div class="speech-column">
             <h2>2023</h2>
             <ul>
-                <li><a href="talk4-1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
-                <li><a href="talk4-2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
-                <li><a href="talk4-3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
-                <li><a href="talk4-4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
-                <li><a href="talk4-5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
-                <li><a href="talk4-6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
-                <li><a href="talk4-7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
-                <li><a href="talk4-8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
-                <li><a href="talk4-9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
-                <li><a href="talk4-10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
-                <li><a href="talk4-11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
-                <li><a href="talk4-12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
-                <li><a href="talk4-13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
-                <li><a href="talk4-14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
-                <li><a href="talk4-15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
-                <li><a href="talk4-16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
+                <li><a href="talk4-1/">Prof. Dingfang Chen: Frontiers in Intelligent Manufacturing (The latest developments and trends in artificial intelligence over the next 5 years, and its applications in the field of intelligent manufacturing)</a></li>
+                <li><a href="talk4-2/">Prof. Kaushik Rajashekara: Current and Future Trends in Transportation Electrification</a></li>
+                <li><a href="talk4-3/">Prof. Zengguang Hou: Intelligent Rehabilitation Technology Based on Brain-Computer Interface</a></li>
+                <li><a href="talk4-4/">Prof. Haibin Zhu: Group Role Assignment with Constraints(GRA+): A New Category of Assignment Problems</a></li>
+                <li><a href="talk4-5/">Prof. Lijie Li: Wireless Free Space Optical Communications</a></li>
+                <li><a href="talk4-6/">Prof. Arturo Suman Bretas: Proactive Frequency Stability Scheme via Bayesian Filters and Synchrophasors</a></li>
+                <li><a href="talk4-7/">Prof. Shuangbao Ma: Cloth Defect Detection Method Based on Deep Learning</a></li>
+                <li><a href="talk4-8/">Prof. Junwei Zhou: Unified Syslog Anomaly Detection Using Deep Learning</a></li>
+                <li><a href="talk4-9/">Prof. Leisheng Jin: Information Processing of Industrial Dynamics Systems Using Reservoir Computing</a></li>
             </ul>
         </div>
     </div>
@@ -132,9 +125,9 @@ redirect_from:
 }
 
 .speech-column h2 {
-    font-size: 1em; /* 调整标题大小 */
+    font-size: 1.2em; /* 调整标题大小 */
     color: #2c3e50; /* 设置标题颜色 */
-    margin-bottom: 15px; /* 与列表之间的间距 */
+    margin-bottom: 12px; /* 与列表之间的间距 */
     text-align: center;
 }
 
