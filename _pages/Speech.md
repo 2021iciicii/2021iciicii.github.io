@@ -29,17 +29,17 @@ redirect_from:
                 <li><a href="talk1-16/">Prof. Hui Li: On the population strategies in MOEA/D</a></li>
                 <li><a href="talk1-17/">Prof. Xinye Cai: 面向航空领域的智能优化方法与应用</a></li>
                 <li><a href="talk1-18/">Prof. Lijie Li: Strain modulated nanomaterials with applications electronic and photonic systems</a></li>
-                <li><a href="talk1-19/">Prof. Menglun Tao: Smart materials and actuators for ultrasonic assisted machining and micro/nano positioning.</a></li>
-                <li><a href="talk1-20/">Prof. Haibin Zhu: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++).</a></li>
-                <li><a href="talk1-21/">Prof. Heping Chen: Intelligent Manufacturing Processes Using Industrial Robots.</a></li>
-                <li><a href="talk1-22/">Prof. Yiping Liu: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization.</a></li>
-                <li><a href="talk1-23/">Prof. Zhenyuan Liu: A Simulation-based Method for Designing Parameters of Material Price Adjustment Model in Large-scale Hydropower Development in China.</a></li>
-                <li><a href="talk1-24/">Prof. Kun Liu: Security and privacy of cyber-physical systems.</a></li>
-                <li><a href="talk1-25/">Prof. Jie Mei: Simulation and experiment for Doubly-clamped Flexible Piezoelectric Energy Harvester.</a></li>
-                <li><a href="talk1-26/">Prof. Jiang Wu: Can functional materials enhance the practicality of ultrasonic motors? A trial investigation.</a></li>
-                <li><a href="talk1-27/">Prof. Zhijun Zhang: Vary Parameter Recurrent Neural Network Applied to Intelligent Robots and Data Analysis.</a></li>
-                <li><a href="talk1-28/">Prof. Miroslav Joler: Challenges Toward Design and Fabrication of Smart(er) Clothing.</a></li>
-                <li><a href="talk1-29/">Prof. Alex Noel Joseph Raj: Hybrid U-NET models for lesion segmentation in Medical Images.</a></li>
+                <li><a href="talk1-19/">Prof. Menglun Tao: Smart materials and actuators for ultrasonic assisted machining and micro/nano positioning</a></li>
+                <li><a href="talk1-20/">Prof. Haibin Zhu: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</a></li>
+                <li><a href="talk1-21/">Prof. Heping Chen: Intelligent Manufacturing Processes Using Industrial Robots</a></li>
+                <li><a href="talk1-22/">Prof. Yiping Liu: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization</a></li>
+                <li><a href="talk1-23/">Prof. Zhenyuan Liu: A Simulation-based Method for Designing Parameters of Material Price Adjustment Model in Large-scale Hydropower Development in China</a></li>
+                <li><a href="talk1-24/">Prof. Kun Liu: Security and privacy of cyber-physical systems</a></li>
+                <li><a href="talk1-25/">Prof. Jie Mei: Simulation and experiment for Doubly-clamped Flexible Piezoelectric Energy Harvester</a></li>
+                <li><a href="talk1-26/">Prof. Jiang Wu: Can functional materials enhance the practicality of ultrasonic motors? A trial investigation</a></li>
+                <li><a href="talk1-27/">Prof. Zhijun Zhang: Vary Parameter Recurrent Neural Network Applied to Intelligent Robots and Data Analysis</a></li>
+                <li><a href="talk1-28/">Prof. Miroslav Joler: Challenges Toward Design and Fabrication of Smart(er) Clothing</a></li>
+                <li><a href="talk1-29/">Prof. Alex Noel Joseph Raj: Hybrid U-NET models for lesion segmentation in Medical Images</a></li>
             </ul>
         </div>
         <div class="speech-column">
@@ -69,21 +69,25 @@ redirect_from:
             <h2>2022</h2>
             <ul>
                 <li><a href="talk3-1/">Prof. Wenjun Zhang: Some Landmark works of Madan M. Gupta with his Collaborators</a></li>
-                <li><a href="talk3-2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
-                <li><a href="talk3-3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
-                <li><a href="talk3-4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
-                <li><a href="talk3-5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
-                <li><a href="talk3-6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
-                <li><a href="talk3-7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
-                <li><a href="talk3-8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
-                <li><a href="talk3-9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
-                <li><a href="talk3-10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
-                <li><a href="talk3-11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
-                <li><a href="talk3-12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
-                <li><a href="talk3-13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
-                <li><a href="talk3-14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
-                <li><a href="talk3-15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
-                <li><a href="talk3-16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
+                <li><a href="talk3-2/">Prof. Dingfang Chen : "Smart Manufacturing" the Popularization of Science Report</a></li>
+                <li><a href="talk3-3/">Prof. Qingfu Zhang: Use of Models in MOEA/D</a></li>
+                <li><a href="talk3-4/">Prof. Shouyong Jiang: When Evolutionary Computation Meets Biology</a></li>
+                <li><a href="talk3-5/">Prof. Zhifeng Hao: New Thoughts of Sciences Inspired by the Metaverse</a></li>
+                <li><a href="talk3-6/">Prof. Kaushik Rajashekara: Energy Impacts of Autonomous and Connected Vehicles and the Future Trends</a></li>
+                <li><a href="talk3-7/">Prof. Haibin Zhu: Computational Social Simulation using E-CARGO</a></li>
+                <li><a href="talk3-8/">Prof. Leonid Ivanov: Promising Areas of Research and Techonlogical Cooperation in Different Fields of Engineering</a></li>
+                <li><a href="talk3-9/">Prof. Jiang Zhu: Challenge for the Next Generation Smart Manufacturing Revolutionized by Digital Technology-- Towards the Realization for Super Smart Society (Society 5.0)</a></li>
+                <li><a href="talk3-10/">Prof. Huawei Tu: Human-Computer Interaction Design Based on the Crossing Paradigm</a></li>
+                <li><a href="talk3-11/">Prof. Jiang Wu: Evaluation of Nonlinear Vibration Characteristics and Stiffness Compensation of Functional Polymer Ultrasonic Actuators</a></li>
+                <li><a href="talk3-12/">Prof. Arturo Suman Bretas: Towards Smart Grids Enhanced Situation Awareness: A Bi-Level Quasi-Static State Estimation Model</a></li>
+                <li><a href="talk3-13/">Prof. Yanjie Wang : Ionic Flexible Sensors: from Mechanism, Fabrication to Applications</a></li>
+                <li><a href="talk3-14/">Prof. Hui Cheng: Control and Perception of Intelligent Robots</a></li>
+                <li><a href="talk3-15/">Prof. Xiaomin Zhu: Automatic Design Method of Behavior Logic for Swarm Robotics</a></li>
+                <li><a href="talk3-16/">Prof. Liangming Chen: Angle Rigidity Graph Theory for Multi-agent Formations</a></li>
+                <li><a href="talk3-17/">Prof. Geng Zhang: An Introduction to Hyperspectral Imaging Technology and Its Potential Applications in Intelligent System</a></li>
+                <li><a href="talk3-18/">Prof. Zhongtao Fu: Lie-Theory-Based Robot Kinematics-Dynamics Modelling and Application</a></li>
+                <li><a href="talk3-19/">Prof. Chunxu Li: Core Research on Human-robot Skill Transfer:an Application to Human-centred Domestic Caregiving Robots</a></li>
+                <li><a href="talk3-20/">Prof. Qing Zhang: Dynamic Semiconductor Junctions for Mechanical-to-electric Power Conversion and Sensing</a></li>
             </ul>
         </div>
         <div class="speech-column">
