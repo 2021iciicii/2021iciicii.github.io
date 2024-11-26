@@ -41,7 +41,6 @@ redirect_from:
                 <li><a href="talk1-28/">Prof. Miroslav Joler: Challenges Toward Design and Fabrication of Smart(er) Clothing</a></li>
                 <li><a href="talk1-29/">Prof. Alex Noel Joseph Raj: Hybrid U-NET models for lesion segmentation in Medical Images</a></li>
             </ul>
-            <button class="toggle-button" onclick="toggleList(this)">More</button>
         </div>
         <div class="speech-column">
             <h2>2021</h2>
@@ -65,7 +64,6 @@ redirect_from:
                 <li><a href="talk2-17/">Prof. Yaochu Jin: Privacy-Preserving Data-Driven Evolutionary Optimization</a></li>
                 <li><a href="talk2-18/">Dr. Shuo Deng: Electron Transport through Dynamic Semiconductor Junction</a></li>
             </ul>
-            <button class="toggle-button" onclick="toggleList(this)">More</button>
         </div>
         <div class="speech-column">
             <h2>2022</h2>
@@ -91,7 +89,6 @@ redirect_from:
                 <li><a href="talk3-19/">Prof. Chunxu Li: Core Research on Human-robot Skill Transfer:an Application to Human-centred Domestic Caregiving Robots</a></li>
                 <li><a href="talk3-20/">Prof. Qing Zhang: Dynamic Semiconductor Junctions for Mechanical-to-electric Power Conversion and Sensing</a></li>
             </ul>
-            <button class="toggle-button" onclick="toggleList(this)">More</button>
         </div>
         <div class="speech-column">
             <h2>2023</h2>
@@ -106,7 +103,6 @@ redirect_from:
                 <li><a href="talk4-8/">Prof. Junwei Zhou: Unified Syslog Anomaly Detection Using Deep Learning</a></li>
                 <li><a href="talk4-9/">Prof. Leisheng Jin: Information Processing of Industrial Dynamics Systems Using Reservoir Computing</a></li>
             </ul>
-            <button class="toggle-button" onclick="toggleList(this)">More</button>
         </div>
     </div>
 </div>
@@ -190,24 +186,5 @@ redirect_from:
     padding: 20px;
     z-index: 10;
 }
-
-.hidden {
-    display: none;
-}
   
 </style>
-
-
-<script>
-function toggleList(button) {
-    const list = button.previousElementSibling;
-    const hiddenItems = list.querySelectorAll('.hidden');
-    if (button.textContent === "More") {
-        hiddenItems.forEach(item => item.style.display = "flex");
-        button.textContent = "Collapse";
-    } else {
-        hiddenItems.forEach(item => item.style.display = "none");
-        button.textContent = "More";
-    }
-}
-</script>
