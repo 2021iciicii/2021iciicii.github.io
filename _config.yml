@@ -12,7 +12,7 @@ title                    : "ICIICII"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
-url                      : https://iciicii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://2021iciicii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 
