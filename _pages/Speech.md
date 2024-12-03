@@ -94,6 +94,9 @@ redirect_from:
 
 
 .speech-container {
+    position: relative; /* 可选：如果不想保持相对定位，删除这行 */
+    width: 100vw; /* 删除这一行，使容器不再强制占满整个视口宽度 */
+    margin-left: calc(50% - 50vw); /* 删除这一行，取消强制容器宽度从页面边界开始 */
     padding: 30px;
     background-color: #ffffff;
     border-radius: 10px;
