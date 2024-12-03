@@ -44,7 +44,7 @@ redirect_from:
 }
 
 .speech-column {
-    width: 22%; /* 设置每列宽度为 22%，以便能够容纳四列，并留出间隙 */
+    width: 50%; /* 设置每列宽度为 22%，以便能够容纳四列，并留出间隙 */
     box-sizing: border-box; /* 确保 padding 和 border 不影响整体宽度 */
     padding: 10px;
     background-color: #f9f9f9; /* 给每列添加背景色，使它们更明显 */
@@ -69,7 +69,7 @@ redirect_from:
     background-color: #f1f1f1;
     border: 1px solid #ddd;
     border-radius: 5px;
-    height: 155px; /* 设置固定高度，确保每个框的大小一致 */
+    height: 200px; /* 设置固定高度，确保每个框的大小一致 */
     display: flex;
     align-items: center; /* 使文字在框内垂直居中 */
     transition: transform 0.3s, box-shadow 0.3s;
@@ -95,7 +95,7 @@ redirect_from:
 
 .speech-container {
     position: relative; /* 可选：如果不想保持相对定位，删除这行 */
-    width: 100%; /* 删除这一行，使容器不再强制占满整个视口宽度 */
+    width: 100vw; /* 删除这一行，使容器不再强制占满整个视口宽度 */
     margin-left: calc(50% - 50vw); /* 删除这一行，取消强制容器宽度从页面边界开始 */
     padding: 30px;
     background-color: #ffffff;
