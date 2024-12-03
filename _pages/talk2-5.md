@@ -8,12 +8,10 @@ permalink: /Speech/talk2-5/
     <div class="talk-header">
         <h2>Presenter: Prof. Xinye Cai</h2>
     </div>
-
     <h3>Abstract</h3>
     <p>
         Aviation Industry contains many complex engineering optimization problems. This talk mainly introduces some recent advances in optimization based on computational intelligence. Complex optimization scenarios include multiobjective optimization, noisy optimization, expensive optimization, etc. The applications of these optimization methods in Aviation have also been demonstrated in this talk.
     </p>
-
     <h3>Biography</h3>
     <p>
         Xinye Cai is an Associate Professor at the Department of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China. His current research interests include evolutionary computation, optimization, data mining, machine learning and their applications. 
