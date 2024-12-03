@@ -8,7 +8,6 @@ permalink: /Speech/talk2-1/
     <div class="talk-header">
         <h2>Presenter: Prof. Leonid Alekseevich Ivanov</h2>
     </div>
-
     <h3>Abstract</h3>
     <p>
         On June 5, 2019, President of the People's Republic of China Xi Jinping and President of the Russian Federation Vladimir Putin signed a Joint Statement on the development of comprehensive partnership and strategic cooperation entering a new era.
@@ -22,7 +21,6 @@ permalink: /Speech/talk2-1/
         <li>Development of polishing pads on the basis of foamed polyurethane for chemical-mechanical polishing of dielectric layers in manufacturing of integrated circuits;</li>
         <li>The main activities of the Russian Academy of Engineering to recognize foreign scientists and engineers who have achieved outstanding results.</li>
     </ul>
-
     <h3>Biography</h3>
     <p>
         In 1999, Prof. Leonid Ivanov successfully defended his Ph.D dissertation. His key findings are published in the following collections of works: Moscow Institute of Thermal Technology "Science, Equipment, Production", Central Design Bureau of Heavy Engineering. In 2001, he was assigned the academic title "Senior research associate" (specialty – "system analysis, modeling of different function systems, computer technologies in a national economy"). 
