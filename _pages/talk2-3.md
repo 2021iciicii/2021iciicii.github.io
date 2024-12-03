@@ -8,12 +8,10 @@ permalink: /Speech/talk2-3/
     <div class="talk-header">
         <h2>Presenter: Prof. Kaushik Rajashekara</h2>
     </div>
-
     <h3>Abstract</h3>
     <p>
         Power electronics and Communications with intelligent control enabled Smart Grid Kaushik Rajashekara Smart grid, sometimes referred to as the Intelligent Grid/Intelligrid and Future Grid, refers to the use of computer, communication, sensing and control technology which operates in parallel with an electric power grid for the purpose of enhancing the resilience and reliability of electric power delivery with security, minimizing the cost of electric energy to consumers, and facilitating the interconnection of new generating sources to the grid. In addition, it also provides improved energy efficiency, demand response, conservation measures that enable consumers to take control of their energy use, and lower the carbon emissions. It is a convergence of power systems, power electronics, renewable energy, energy storage, energy management, Information & Communication systems, sensing and measurement, and related technologies. Recently electric vehicles are also being considered for integration to the grid. This presentation discusses a brief review of these technologies that enable the development of a future robust and smart electric grid. The intelligent control strategies for integration of the renewable energy sources for a smart grid are also briefly discussed.
     </p>
-
     <h3>Biography</h3>
     <p>
         Kaushik Rajashekara received his PhD degree in Electrical Engineering from Indian Institute of Science. In 1989, he joined Delphi division of General Motors Corporation in Indianapolis, IN, USA as a staff project engineer. In Delphi and General Motors, he held various lead technical and managerial positions, and was a Technical Fellow and the Chief Scientist for developing electric machines, controllers, and power electronics systems for electric, hybrid, and fuel cell vehicle systems. In 2006, he joined Rolls-Royce Corporation as a Chief Technologist working on Electric Aircraft architectures and power conversion/control technologies for More Electric and Hybrid Electric aircraft. In August 2012, he joined as a Distinguished Professor of Engineering at the University of Texas at Dallas. Since September 2016, he is a Distinguished Professor of Engineering at University of Houston.
