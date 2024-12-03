@@ -8,7 +8,6 @@ permalink: /Speech/talk2-10/
     <div class="talk-header">
         <h2>Presenter: Prof. Haibin Zhu</h2>
     </div>
-
     <h3>Abstract</h3>
     <p>
         Role-Based Collaboration (RBC) is a computational methodology that uses roles as the primary underlying mechanism to facilitate collaboration activities. It consists of a set of concepts, principles, models, processes, and algorithms. RBC and its Environments - Classes, Agents, Roles, Groups, and Objects (E-CARGO) model have been developed to a powerful tool for investigating collaboration and complex systems. Related research has brought and will bring in exciting improvements to the development, evaluation, and management of systems including collaboration, services, clouds, productions, and administration systems. RBC and E-CARGO grow gradually into a strong fundamental methodology and model for exploring solutions to problems of complex systems including Collective Intelligence, Sensor Networking, Scheduling, Smart Cities, Internet of Things, Cyber-Physical Systems, and Social Simulation Systems.
@@ -22,10 +21,8 @@ permalink: /Speech/talk2-10/
     <p>
         As case studies of E-CARGO, GRA and its related problem models are inspired by delving into the details of the E-CARGO components and the RBC process. GRA can help solve related collaboration problems with the help of programming and optimization platforms. All the related Java codes can be downloaded by GitHub: <a href="https://github.com/haibinnipissing/E-CARGO-Codes">E-CARGO Codes</a>. The speaker welcomes interested researchers and practitioners to use these codes in their research and practice and contact the speaker if there are any questions about them.
     </p>
-
     <h3>Keywords</h3>
     <p>Collaboration, Methodology, Model, E-CARGO, Role-Based Collaboration, Object, Agent, Role.</p>
-
     <h3>Biography</h3>
     <p>
         Dr. Haibin Zhu is a Full Professor and the Coordinator of the Computer Science Program, the Founding Director of the Collaborative Systems Laboratory, a member of the University Budget Plan committee, Arts and Science Executive Committee, and the Research Committee, Nipissing University, Canada. He is also an affiliate professor of Concordia University and an adjunct professor of Laurentian University, Canada. He received a B.S. degree in computer engineering from the Institute of Engineering and Technology, China (1983), and M.S. (1988) and Ph.D. (1997) degrees in computer science from the National University of Defense Technology (NUDT), China. He was the chair of the Department of Computer Science and Mathematics, Nipissing University, Canada (2019-2021), a visiting professor and a special lecturer in the College of Computing Sciences, New Jersey Institute of Technology, USA (1999-2002) and a lecturer, an associate professor and a full professor at NUDT (1988-2000).
