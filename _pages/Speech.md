@@ -91,5 +91,28 @@ redirect_from:
 .speech-column li a:hover {
     text-decoration: underline;
 }
+
+
+.speech-container {
+    position: relative; /* 相对定位，允许正常滚动 */
+    width: 100vw; /* 占满整个视口宽度，避免受父容器的影响 */
+    margin-left: calc(50% - 50vw); /* 强制使容器的起始点扩展到页面边界 */
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.speech-container h1 {
+    font-size: 2em;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    position: sticky; /* 保持标题在页面顶部可见 */
+    top: 0;
+    background-color: #ffffff;
+    padding: 20px;
+    z-index: 10;
+}
   
 </style>
