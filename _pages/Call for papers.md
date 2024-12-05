@@ -7,7 +7,7 @@ redirect_from:
 <div class="cfp-container">
   <h1 class="cfp-title">Call for Papers</h1>
   <p class="cfp-intro">
-    The 2022 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2022) will be held from <strong>16-18 December 2021</strong> in <strong>Shantou, China</strong>.
+    The 2022 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021) will be held from <strong>16-18 December 2021</strong> in <strong>Shantou, China</strong>.
   </p>
 
   <p class="cfp-details">
